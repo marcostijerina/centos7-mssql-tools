@@ -8,8 +8,6 @@ This Docker image with the following utilities from mssql-tools (*msodbcsql17*):
 
 ## RUN
 
-Run it in two ways:
-
     docker run -it centos7-mssql-tools sqlcmd -?
 
 
