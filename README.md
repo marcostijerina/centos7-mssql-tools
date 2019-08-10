@@ -58,7 +58,3 @@ usage: bcp {dbtable | query} {in | out | queryout | format} datafile
 ### License
 ###### By using this Docker image, I confirm that I agree to the SQL Server Command Line Utilities license terms located [here](https://docs.microsoft.com/en-us/Legal/sql/sql-server-data-tools-license-terms?view=sql-server-2017).
 
-
-
-
-> Written with [StackEdit](https://stackedit.io/) online markdown editor.  
