@@ -12,7 +12,6 @@ Run it in two ways:
 
     docker run -it centos7-mssql-tools sqlcmd -?
 
-Note: if you need systemd running add *-d -v /sys/fs/cgroup:/sys/fs/cgroup:ro -v /var/run:/var/run centos7-mssql-tools*
 
 Command Usage
 ------------
