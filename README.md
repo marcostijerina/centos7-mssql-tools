@@ -1,7 +1,7 @@
 # centos7-mssql-tools
 ## This is an install of mssql-tools (msodbcsql17) into a docker image of CentOS7 latest
 
-This Docker image with the following utilities from mssql-tools (*msodbcsql17*):
+This Docker image contains the following utilities from mssql-tools (*msodbcsql17*):
 * **Sqlcmd** - Microsoft (R) SQL Server Command Line Tool (Version 17.1.0000.1 Linux)
 * **BCP**    - Bulk Copy Program for Microsoft SQL Server (Version: 17.1.0000.1)
 > Copyright (c) 2012 Microsoft. All rights reserved.
